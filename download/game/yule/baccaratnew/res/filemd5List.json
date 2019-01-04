@@ -121,6 +121,16 @@
       "path": "baccaratnew/res/new_bjl/"
     }, 
     {
+      "md5": "8f4fd58ebed01dc73dfcd1bfc66edb01", 
+      "name": "br_btn_xuya.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
+      "md5": "53130ae1f508e054a6d0036e8c38cade", 
+      "name": "br_btn_xuya_down.png", 
+      "path": "baccaratnew/res/new_bjl/"
+    }, 
+    {
       "md5": "5df8f5356af589827de04d4c9221f807", 
       "name": "brtx.png", 
       "path": "baccaratnew/res/new_bjl/"
@@ -511,12 +521,12 @@
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "152a717ae2a1216e9717a37ce17365a2", 
+      "md5": "439b73e1c8bb9cbe9d33f8217034f0bb", 
       "name": "GameResultLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
     {
-      "md5": "ff88591280c53b3b2cfde905f8c75a52", 
+      "md5": "4bd5f81a084460feb2b2c3ad1a5c8a27", 
       "name": "GameViewLayer.luac", 
       "path": "baccaratnew/src/views/layer/"
     }, 
@@ -551,7 +561,7 @@
       "path": "baccaratnew/src/views/layer/userlist/"
     }, 
     {
-      "allcount": 110
+      "allcount": 112
     }
   ]
 }
