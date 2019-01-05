@@ -61,6 +61,11 @@
       "path": "sparrowhz/res/"
     }, 
     {
+      "md5": "f5b5ff330c191dccda1a02e8926723b3", 
+      "name": "tag_num.png", 
+      "path": "sparrowhz/res/"
+    }, 
+    {
       "md5": "579fd31f671d487de2b7c4e0bfe73f8d", 
       "name": "sice_1.png", 
       "path": "sparrowhz/res/Animate_sice_red/"
@@ -211,17 +216,17 @@
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "7665cd725880a9719d8612b671df100d", 
+      "md5": "bc587333293bfdf45256e50520404ca4", 
       "name": "GameScene.csb", 
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "01b274c5a4012e176413597b512dd8f5", 
+      "md5": "073e2f6d9c5671911a68bfc191380608", 
       "name": "MaJiang.plist", 
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "5363e19328e151708b01fab0a46cdb85", 
+      "md5": "cca2c7f6da32acb7aa809e3f68296ecd", 
       "name": "MaJiang.png", 
       "path": "sparrowhz/res/game/"
     }, 
@@ -231,7 +236,7 @@
       "path": "sparrowhz/res/game/"
     }, 
     {
-      "md5": "be07b1c5e24a21cccd38a453ff305262", 
+      "md5": "985259217411daa13829669ba27b68de", 
       "name": "num_score.png", 
       "path": "sparrowhz/res/game/"
     }, 
@@ -946,7 +951,7 @@
       "path": "sparrowhz/src/views/layer/"
     }, 
     {
-      "allcount": 189
+      "allcount": 190
     }
   ]
 }
